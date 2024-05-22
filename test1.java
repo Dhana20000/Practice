@@ -3,3 +3,6 @@ public class test1{
 		System.out.println("hellow");
 		System.out.println("Commit from practice 2");
 	}
+	public void m2(){
+		system.out.println("small bug");
+	}
